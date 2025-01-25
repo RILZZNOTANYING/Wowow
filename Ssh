@@ -1071,7 +1071,7 @@ game:GetService("ReplicatedStorage").rEvents.orbEvent:FireServer("collectOrb","Y
 game:GetService("ReplicatedStorage").rEvents.orbEvent:FireServer("collectOrb","Yellow Orb","City")
 game:GetService("ReplicatedStorage").rEvents.orbEvent:FireServer("collectOrb","Yellow Orb","City")
 game:GetService("ReplicatedStorage").rEvents.orbEvent:FireServer("collectOrb","Yellow Orb","City")
-a           end
+          end
         end
     end
 )  
